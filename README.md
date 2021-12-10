@@ -1,3 +1,5 @@
+# !!! A node_modules fájlok hiányoznak a .gitignore fájl miatt, de a VS Code termináljában ez pótolható. !!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

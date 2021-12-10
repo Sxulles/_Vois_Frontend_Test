@@ -1,4 +1,4 @@
-# !!! A node_modules fájlok hiányoznak a .gitignore fájl miatt, de a VS Code termináljában ez pótolható. !!!
+# !!! A node_modules fájlok hiányoznak a .gitignore fájl miatt, de a VS Code termináljában ez pótolható/telepíthető. !!!
 
 # Getting Started with Create React App
 

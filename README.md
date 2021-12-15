@@ -1,12 +1,10 @@
 # !!! Teljes projektmappa: https://drive.google.com/drive/folders/1g4mVALlm0nsAZTza6WD5JNYFLFhazXRR?usp=sharing !!!
 
-# !!! A node_modules fájlok telepítése feltétlenül szükséges a működéshez !!!
 # Amennyiben hiányozna bármilyen pacakage a következők lettek felhasználva az alapokon kívül:
 
 ## npm install react-bootstrap bootstrap@5.1.3
 ## npm install --save react-media
 ## npm install reactstrap react react-dom
-### *A package.json tartalmazza ezeket hogy a node_modules telepítésekor automatikusan behúzza.*
 
 
 

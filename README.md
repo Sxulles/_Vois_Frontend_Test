@@ -1,4 +1,4 @@
-# !!! A node_modules fájlok hiányoznak a .gitignore fájl miatt, de a VS Code termináljában ez pótolható/telepíthető. !!!
+# !!! Teljes projektmappa: https://drive.google.com/drive/folders/1g4mVALlm0nsAZTza6WD5JNYFLFhazXRR?usp=sharing !!!
 
 # !!! A node_modules fájlok telepítése feltétlenül szükséges a működéshez !!!
 # Amennyiben hiányozna bármilyen pacakage a következők lettek felhasználva az alapokon kívül:

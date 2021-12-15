@@ -3,8 +3,8 @@
 # Amennyiben hiányozna bármilyen pacakage a következők lettek felhasználva az alapokon kívül:
 
 ## npm install react-bootstrap bootstrap@5.1.3
-npm install --save react-media
-npm install reactstrap react react-dom
+## npm install --save react-media
+## npm install reactstrap react react-dom
 
 
 
